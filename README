@@ -1,0 +1,4 @@
+The goal is for this to be a convenient tool for giving presentations in Linux with a tablet PC (and so allowing pen annotations). Currently, the best solution is just to use Xournal. However, it's not that convenient; it's a bit of a hassle to set things up so that the projector shows only the slides, but you can see the drawing tools, and there are a few other problems.
+
+Jakob Westhoff's very nice PDF Presenter Console works rather well, but does not allow annotations. 
+
